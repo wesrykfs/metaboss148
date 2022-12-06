@@ -1,0 +1,45 @@
+{
+  "name": "Simmple Labs #614",
+  "symbol": "SIMMPLE",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://shdw-drive.genesysgo.net/Fg5LxLXL9seZp5gmPSwwZB76AwkmzewbeQaJvJ9oDqaL/614.png",
+  "attributes": [
+{
+      "trait_type": "Background",
+      "value": "Mint Muted"
+    },
+    {
+      "trait_type": "Accessories (Back)",
+      "value": "None"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Street - Red"
+    },
+    {
+      "trait_type": "Display",
+      "value": "8"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Black Fur Jacket"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Black Oni Mask"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "White Bucket Hat"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
